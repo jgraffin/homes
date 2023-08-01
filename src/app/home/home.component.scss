@@ -38,3 +38,10 @@ button {
       grid-template-columns: 1fr;
   }
 }
+
+.noResults {
+  display: block;
+  padding: 1rem;
+  background: #fafafa;
+  margin: 2rem;
+}
